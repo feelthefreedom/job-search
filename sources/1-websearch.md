@@ -111,39 +111,6 @@ site:linkedin.com/jobs "product engineer" "workflow builder" OR "no-code" React
 site:linkedin.com/jobs "frontend engineer" Temporal OR Retool OR "n8n" OR Tray React
 ```
 
-## Google ATS — Canvas / Design Tools / Graph Editors
-
-```
-"canvas" OR "graph editor" OR "node editor" OR "visual editor" React TypeScript site:greenhouse.io OR site:lever.co
-"design tool" OR "collaborative editor" OR "whiteboard" React TypeScript site:greenhouse.io OR site:lever.co
-frontend engineer "interactive visualization" OR "complex UI" OR "canvas rendering" site:greenhouse.io OR site:lever.co
-"pipeline builder" OR "workflow builder" OR "drag-and-drop" React TypeScript site:greenhouse.io OR site:ashbyhq.com
-frontend engineer "developer platform" OR "developer experience" OR DX React site:greenhouse.io OR site:lever.co
-"low-code" OR "no-code" OR "visual programming" OR "config-driven" React TypeScript site:greenhouse.io OR site:lever.co
-frontend engineer "state management" OR "undo redo" OR "real-time collaboration" canvas site:greenhouse.io OR site:lever.co
-frontend engineer CRDT OR "collaborative editing" OR "multiplayer" React site:greenhouse.io OR site:lever.co
-```
-
-## LinkedIn via Google — Canvas / Design Tools
-
-```
-site:linkedin.com/jobs "frontend engineer" canvas OR "graph editor" OR "visual editor" React
-site:linkedin.com/jobs "frontend engineer" "design tool" OR "collaborative" OR "whiteboard" React
-site:linkedin.com/jobs "product engineer" "low-code" OR "no-code" OR "visual builder" React
-site:linkedin.com/jobs "frontend engineer" Figma OR Miro OR Lucidchart OR "design tool"
-site:linkedin.com/jobs "frontend engineer" "pipeline builder" OR "workflow editor" OR "dag editor" React
-site:linkedin.com/jobs "frontend engineer" "developer tools" OR "developer platform" OR DX React TypeScript
-```
-
-## Company-specific Google — Canvas / Design Tools / DevTools
-
-```
-site:miro.com/careers OR site:lucidchart.com/careers OR site:excalidraw.com "frontend" OR "product engineer"
-site:figma.com/careers OR site:canva.com/careers OR site:pitch.com/careers "frontend" OR "product engineer"
-site:dagster.io/careers OR site:prefect.io/careers OR site:airbyte.com/careers "frontend" React
-site:appsmith.com/careers OR site:tooljet.com/careers OR site:budibase.com/careers "frontend" OR "product engineer"
-site:tldraw.com OR site:xyflow.com "engineer" OR "frontend"
-```
 
 ## Job Boards via Google
 
